@@ -8,7 +8,6 @@ function tabelaMultiply() {
         x[i][j] = i * j 
         }
     }
-   
     console.table(x)
 }
 console.log(tabelaMultiply());
